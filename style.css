@@ -1,0 +1,21 @@
+#rect1 {
+    background-color: darkslategray;
+}
+
+#rect2 {
+    background-color: rgb(119, 30, 157);
+    text-align: center;
+}
+
+#rect3 {
+    background-color: rgb(179, 179, 35);
+
+}
+
+.rectangle {
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
